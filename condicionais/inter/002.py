@@ -1,7 +1,7 @@
 valor = int(input("Digite seu numero"))
 valor2 = int(input("Digite seu segundo numero"))
 if valor > valor2:
-    print(f"O ", valor "é maio que um")
+    print("o valor 1 é maior que o ", valor2)
 
 else:
-    print(f"O ", valor2 "")
+    print("O valor dois é maior que o ", valor)
